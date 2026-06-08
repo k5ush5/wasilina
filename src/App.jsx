@@ -100,7 +100,12 @@ function App() {
             transition={{ duration: 1 }}
           >
             <h1 className="hero-title">
-              ПО САНКТ-ПЕТЕРБУРГУ
+              ПО 
+            </h1>
+            <h1 className="hero-title">
+              САНКТ-ПЕТЕРБУРГУ
+            </h1>
+            <h1 className="hero-title">
               С ВАСИЛИНОЙ
             </h1>
             <p className="hero-text">
