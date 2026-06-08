@@ -137,7 +137,7 @@ function App() {
             </div>
             <img
               src={block.image}
-              alt=""
+              alt="Экскурсия по Санкт-Петербургу"
               className="photo-image"
             />
             <div className="photo-bottom">

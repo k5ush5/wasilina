@@ -14,7 +14,8 @@
     "framer-motion": "^12.40.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
-    "tailwindcss": "^4.3.0"
+    "tailwindcss": "^4.3.0",
+    "vite-plugin-sitemap": "^0.8.2"
   },
   "devDependencies": {
     "@babel/core": "^7.29.0",
