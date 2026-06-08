@@ -5,7 +5,7 @@ const blocks = [
   {
     title: '"ПАРАДНЫЙ ПЕТЕРБУРГ"',
     subtitle: "Обзорная пешеходная экскурсия",
-    image: "/photo2.jpg",
+    image: "/spb-ekskursiya.jpg",
     price: "8 000₽",
     type: "Идеальный маршрут для первого знакомства с городом",
     items: [
@@ -20,7 +20,7 @@ const blocks = [
   {
     title: '"КОЛЫБЕЛЬ ПЕТЕРБУРГА"',
     subtitle: "Пешеходная экскурсия",
-    image: "/photo3.jpg",
+    image: "/vodnaya-progulka-spb.jpg",
     price: "7 000₽",
     type: "",
     items: [
@@ -36,7 +36,7 @@ const blocks = [
   {
     title: '"САНКТ-ПЕТЕРБУРГ ЗА 1 ДЕНЬ"',
     subtitle: "Пешеходно-автомобильная экскурсия",
-    image: "/photo4.jpg",
+    image: "/guide-spb.jpg",
     price: "15 000₽",
     type: "",
     items: [
@@ -54,7 +54,7 @@ const blocks = [
   {
     title: '"ВОДНЫЕ ПРОГУЛКИ ПО РЕКАМ И КАНАЛАМ САНКТ-ПЕТЕРБУРГА"',
     subtitle: "Индивидуальные прогулки на катере или яхте",
-    image: "/photo5.jpg",
+    image: "/saint-petersburg.jpg",
     price: "7 000₽",
     type: "МОЁ ГЛАВНОЕ НАПРАВЛЕНИЕ!",
     items: [
@@ -89,7 +89,7 @@ function App() {
       <section className="hero">
         <img
           className="hero-image"
-          src="/photo1.jpg"
+          src="/ekskursiya-po-peterburgu.jpg"
           alt=""
         />
         <div className="hero-overlay" />
