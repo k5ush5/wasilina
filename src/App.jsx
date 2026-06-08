@@ -135,9 +135,7 @@ function App() {
               className="photo-image"
             />
             <div className="photo-bottom">
-              <div className="photo-price">
-                {block.price}
-              </div>
+              
               <div className="photo-line" />
               <p className="photo-subtitle">
                 {block.type}
@@ -149,6 +147,10 @@ function App() {
                   </li>
                 ))}
               </ul>
+              <div className="photo-price">
+                {block.price}
+              </div>
+              <div className="photo-line" />
             </div>
           </motion.div>
         ))}
