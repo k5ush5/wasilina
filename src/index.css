@@ -175,12 +175,11 @@ button{
     42px;
 }
 
-/* PRICE */
 
 .photo-price{
   text-align:center;
   margin-top: 25px;
-  font-size:30px;
+  font-size:25px;
 
   letter-spacing:5px;
 
@@ -191,16 +190,12 @@ button{
 
 .photo-line{
   width:120px;
-  height:2px;
-
+  height:1.6px;
   background:#0f172a;
-
   margin:
     16px auto
     30px;
 }
-
-/* SUBTITLE */
 
 .photo-subtitle{
   text-align:center;
